@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Monitor",
+  "description": "ระบบติดตามและบำบัดน้ำเสียอัจฉริยะ (Smart Water Treatment System) และเครื่องมือจัดทำรายงานสรุปสำหรับโครงงานสิ่งแวดล้อม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
